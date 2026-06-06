@@ -500,7 +500,7 @@ def make_plot(pgd_df, trades_df, methods_df, eval_steps, eval_col, title, accura
 
 
 # --- Main UI ---
-st.title("🛡️ Model Robustness Evaluation Dashboard")
+st.title("Model Robustness Evaluation Dashboard")
 st.markdown("Compare PGD-AT, TRADES, and representation alignment methods across threat models.")
 
 # Sidebar Controls
